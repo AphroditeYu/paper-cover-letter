@@ -1,44 +1,13 @@
-# Journal submission cover letter template
-
-This is a structure for adaptation, not a factual statement about a manuscript.
-Replace double-brace placeholders only with supported information. Remove optional
-fields and unused sentences. Do not copy these instructions into the letter.
-Keep unresolved questions outside the letter and label incomplete output as a draft.
-
-The declarations slot below has no default affirmative text. Include only statements
-confirmed for the current manuscript, with the correct author and submission scope.
-If confirmation is missing, omit the paragraph and list what is needed in the notes,
-or retain the explicit placeholder in an incomplete draft. Do not automatically add
-originality, unpublished status, exclusive submission, author approval, or absence
-of competing interests.
-
----
-
-{{CORRESPONDING_AUTHOR_NAME}}
-{{AFFILIATION_IF_NEEDED}}
-{{DATE_IF_NEEDED}}
-
-{{JOURNAL_NAME}}
-{{VERIFIED_EDITOR_NAME_AND_ADDRESS_IF_NEEDED}}
-
-Dear {{VERIFIED_EDITOR_NAME_OR_EDITOR}},
-
-We submit our manuscript, “{{MANUSCRIPT_TITLE}},” for consideration as a
-{{ARTICLE_TYPE}} in {{JOURNAL_NAME}}.
-
-Our study addresses {{SUPPORTED_RESEARCH_QUESTION_OR_GAP}}. Using
-{{SUPPORTED_DESIGN_AND_METHOD}}, we found {{SUPPORTED_KEY_FINDING_WITH_APPROPRIATE_SCOPE}}.
-These findings {{SUPPORTED_CONTRIBUTION_OR_PROPORTIONATE_IMPLICATION}}.
-
-The manuscript aligns with the journal's focus on {{SOURCED_JOURNAL_SCOPE_TOPIC}}
-through {{SPECIFIC_SUPPORTED_CONNECTION}}. It may interest the journal's readers
-because {{SUPPORTED_READER_RELEVANCE}}.
-
-{{CONFIRMED_APPLICABLE_DECLARATIONS_ONLY_OR_REMOVE_PARAGRAPH}}
-
-Thank you for considering our manuscript.
-
+[Your Name] [Your Organization/Institutional Affiliation]
+[Editor's name if known] [Journal Name] [Journal Address]
+[Date of Submission]
+Dear [Editor name],
+We wish to submit an original research paper entitled “[title of article]” to be published by [name of the journal].
+This paper addresses the problem of [main question addressed by study]. Studies have shown that [insert brief background of study]. However, it needs to be clarified whether [insert problem statement]. Using [insert method], we show that [describe key finding(s) of the study]. Our findings are significant because [explain the impact of the study].
+Since our study deals with [explain how the main focus of the study aligns with the journal’s scope], we believe it may be a good fit for publication in [name of journal]. We feel that the findings of our study will be highly relevant to your audience since [explain the research contribution of study or practical implications].
+The article “[title of article]” has not been published elsewhere, and it reflects original research conducted by its authors. None of the authors have any conflicts of interest to disclose concerning this study.
+Thank you for your valuable time.
 Sincerely,
-{{CORRESPONDING_AUTHOR_NAME}}
-{{TITLE_AND_AFFILIATION_IF_NEEDED}}
-{{CORRESPONDING_AUTHOR_EMAIL}}
+[Your name]
+[Your title]
+[Your email address]
